@@ -18,6 +18,7 @@
            String land = request.getParameter("land");
            String positie = request.getParameter("positie");
         %>
+        <link rel="stylesheet" href="pagina.css" type="text/css" media= "screen">
         <title>JSP Page</title>
     </head>
     <body>
